@@ -18,7 +18,8 @@ const Footer = () => {
     borderBottom={"2px solid white"}
     py="2"
     >
-    <Input placeholder='Enter Email Here.....'
+    <Input
+     placeholder='Enter Email Here.....'
         border={'none'}
         borderRadius='none'
         outline={'none'}
